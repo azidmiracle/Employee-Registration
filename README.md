@@ -1,7 +1,7 @@
 # Introduction
 This program helps our IT staff tracks all new staffs hired by the company.
 
-#Design
+# Design
 ## Database
 There is only one table for the database with the followings columns.
 * Order	Reference No.	
