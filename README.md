@@ -23,7 +23,14 @@ There is only one table for the database with the followings columns.
 
 ## Interface
 The following is the interface design of the new registration form.
+1. IT staff will input all the necessary information.
+2. All the elements should not be left blank.
+3. Click the submit button to insert the data to the database
 
+![Interface](/interface/interface.JPG)
 
+4. Once data has been added, the IT staff can click the "PROCEED AND PRINT" button to generate a form in PDF format as shown below.
+
+![Form](/interface/form.JPG)
 
 
